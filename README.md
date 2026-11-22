@@ -17,8 +17,7 @@ programacion-2-python/
 │   └── imagenes/                # Figuras y esquemas que se ven en los notebooks
 ├── ejercicios/
 │   ├── enunciados/              # Ejercicios para practicar (sin resolver)
-│   ├── soluciones/              # Soluciones de los ejercicios
-│   └── pandas_exercises_guipsamora/   # Ejercicios extra de pandas (material de terceros)
+│   └── soluciones/              # Soluciones de los ejercicios
 └── requirements.txt             # Librerías necesarias
 ```
 
@@ -48,10 +47,6 @@ Los temas que solo tienen un archivo ya incluyen las soluciones.
 | 7.3 | **pandas (III): reestructurar datos** | `.melt()` · MultiIndex · `.transpose()` · `.swaplevel()` · `.pivot()` · `.stack()` / `.unstack()` · `.pivot_table()` | [07c_Pandas_III](teoria/07c_Pandas_III.ipynb) | |
 | 8.1 | **Visualización con Matplotlib** | Figuras y ejes · subplots · tipos de gráficos · cómo elegir el gráfico adecuado (pregunta, audiencia, gráficos exploratorios y explicativos, estética frente a precisión) | [alumno](teoria/08a_Visualization_Matplotlib.ipynb) · [resuelto](teoria/08a_Visualization_Matplotlib_SOLUTIONS.ipynb) | |
 | 8.2 | **Visualización con Seaborn** | Sintaxis de Seaborn · gráficos de dispersión, líneas, barras, histogramas, boxplots, densidad y violín · pair plots y facet plots · heatmaps | [08b_Visualization_Seaborn](teoria/08b_Visualization_Seaborn.ipynb) | |
-
-### Ejercicios adicionales de pandas
-
-La carpeta [`ejercicios/pandas_exercises_guipsamora`](ejercicios/pandas_exercises_guipsamora) contiene la colección **pandas_exercises** de Guilherme Samora ([repositorio original](https://github.com/guipsamora/pandas_exercises), licencia BSD-3-Clause). Sirve para practicar pandas con datos reales: exploración, filtrado, agrupación, `apply`, merges, estadística, visualización, series temporales e indexación. Cada ejercicio tiene una versión sin resolver y otra con las soluciones.
 
 ---
 
