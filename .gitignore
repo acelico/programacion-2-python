@@ -1,0 +1,26 @@
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Archivos del sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.Rhistory
+.vscode/
+
+# Protección: este repositorio NO debe contener material de evaluación
+*[Ee]xam*
+*[Ee]xamen*
+*[Mm]idterm*
+*[Aa]ssignment*
+*[Ee]valuaci*
+*[Cc]alificaci*
+*[Aa]ctas*
+*[Rr]ubric*
+*[Rr]úbrica*
+*[Rr]esultados*
