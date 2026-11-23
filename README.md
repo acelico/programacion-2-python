@@ -98,3 +98,5 @@ En local, **salta las celdas de Google Colab** (`from google.colab import drive`
 - Sweigart, A. (2019). *Automate the Boring Stuff with Python: Practical Programming for Total Beginners* (2nd ed.). No Starch Press.
 - Lubanovic, B. (2019). *Introducing Python: Modern Computing in Simple Packages* (2nd ed.). O'Reilly Media.
 - Documentación oficial: [Python](https://docs.python.org/3/) · [NumPy](https://numpy.org/doc/stable/) · [pandas](https://pandas.pydata.org/docs/) · [Matplotlib](https://matplotlib.org/stable/) · [Seaborn](https://seaborn.pydata.org/)
+
+DOI: https://doi.org/10.5281/zenodo.24468100
