@@ -1,6 +1,6 @@
 # Programación II: Python para el análisis de datos
 
-Materiales de la asignatura **Programación II** del **Grado en Economía y Data Analytics** (UNAV).
+Materiales de la asignatura **Programación II** del **Grado en Economía y Data Analytics**.
 
 La asignatura es una introducción práctica a la programación en **Python** orientada al análisis de datos. Empieza por los fundamentos del lenguaje (tipos de datos, estructuras, control de flujo y funciones) y llega a las librerías principales del ecosistema científico: **NumPy**, **pandas**, **Matplotlib** y **Seaborn**.
 
